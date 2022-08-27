@@ -1,3 +1,11 @@
+# This project is used covid api and technologies:
++ axios
++ material-ui
++ highcharts
++ react-count-up
++ highcharts-react-official
++ lodash
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
