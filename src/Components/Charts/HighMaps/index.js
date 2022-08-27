@@ -4,7 +4,6 @@ import HighchartsReact from 'highcharts-react-official';
 import highchartsMap from 'highcharts/modules/map';
 import { cloneDeep } from 'lodash'
 
-//load highchart Modules
 highchartsMap(Highcharts);
 const initOptions = {
     chart: {
